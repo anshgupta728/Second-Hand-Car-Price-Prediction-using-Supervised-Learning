@@ -1,6 +1,8 @@
 # Second-Hand-Car-Price-Prediction-using-Supervised-Learning
 This project demonstrates supervised learning technique to determine the Second Hand Price of a car from attributes such as year_bought, kms_driven, transimission_type(petrol/deisel), owner_type(0/1/3) and person_type(dealer/individual). In this project, I have used the cardekho.com dataset available over Kaggle.
+
 Dataset Link: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+
 Project Link: https://car-resale-value-predict.herokuapp.com/
 
 Steps to Run the Project on localhost:
